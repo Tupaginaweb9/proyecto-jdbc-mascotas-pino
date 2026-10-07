@@ -1,0 +1,8 @@
+Evidencia GA7-220501096-AA2-EV01
+Proyecto: Mascotas Pino - Módulo JDBC
+
+Enlace del repositorio GitHub:
+
+PEGAR_AQUI_EL_ENLACE_REAL_DEL_REPOSITORIO
+
+Este archivo debe actualizarse antes de comprimir y entregar la evidencia.
